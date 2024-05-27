@@ -81,6 +81,9 @@ footer p{
     margin-left: -30px;
     padding: 20px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 1);
+    /* scrolling test */
+    overflow-y: auto;
+    max-height: calc(100vh - 100px); /* Adjust the height as needed */
 }
 
 #main-section h1, #main-section h2 {
