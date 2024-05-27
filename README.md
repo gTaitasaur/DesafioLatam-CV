@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+CV para Desafío Latam
