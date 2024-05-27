@@ -100,7 +100,7 @@ footer p{
     margin: auto;
     font-size: 26px;
 }
- #main-section table{
+ #main-section table, #main-section ul{
     pointer-events: visible;
  }
 
