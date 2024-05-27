@@ -100,7 +100,9 @@ footer p{
     margin: auto;
     font-size: 26px;
 }
-
+ #main-section table{
+    pointer-events: visible;
+ }
 
 #navbar{
     background-color: transparent;
