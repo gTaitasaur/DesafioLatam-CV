@@ -102,7 +102,21 @@ footer p{
 }
  #main-section table, #main-section ul{
     pointer-events: visible;
- }
+}
+
+/* Carrusel */
+#carouselExampleCaptions{
+    pointer-events: auto;
+}
+#carouselExampleCaptions h5, #carouselExampleCaptions p{
+    font-size: 32px;
+    color: #fff;
+  text-shadow:
+    3px 3px 2px #000,
+    -3px 3px 2px #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
+}
 
 #navbar{
     background-color: transparent;
