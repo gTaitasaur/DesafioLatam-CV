@@ -118,6 +118,25 @@ footer p{
     3px -3px 0 #000;
 }
 
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    outline: black;
+    background-size: 100%, 100%;
+    background-image: none;
+  }
+  
+  .carousel-control-next-icon:after
+  {
+    content: '>';
+    font-size: 55px;
+    color: #bf95f2;
+  }
+  
+  .carousel-control-prev-icon:after {
+    content: '<';
+    font-size: 55px;
+    color: #bf95f2;
+  }
+
 #navbar{
     background-color: transparent;
     height: 100%;
