@@ -94,7 +94,13 @@ footer p{
 #main-section h2 {
     margin-top: -30%;
     font-size: 42px;
-  }
+}
+
+#main-section p {
+    margin: auto;
+    font-size: 26px;
+}
+
 
 #navbar{
     background-color: transparent;
